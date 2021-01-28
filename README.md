@@ -4,7 +4,7 @@ This code is developed from scratch using Python for detection of Breast cancer.
 
 The accuracy of the model is around 91% with the given dataset
 
-What is included:
+Program module flowchart:
 
 - Dataset information and Preprocessing
 - Intialize parameters
