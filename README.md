@@ -14,7 +14,7 @@ Program module flowchart:
 - Update Parameters
 - Complete Model
 - Predictions
-- Performance¶
+- Performance
 
 
 
